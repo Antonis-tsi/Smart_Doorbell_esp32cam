@@ -5,7 +5,7 @@ This smart doorbell project is based on the ESP32-CAM module. When someone rings
 
 It also supports remote control through Telegram commands so you’re always informed about what’s happening at your front door, no matter where you are!
 
-![Doorbell Preview](assets/doorbell.jpg)
+![Doorbell Preview](assets/doorbell.png)
 
 ## Features
 - **Auto-Capture:** Takes a picture automatically when the doorbell button is pressed.
@@ -25,7 +25,7 @@ It also supports remote control through Telegram commands so you’re always inf
 - Power Supply (5V/1A recommended)
 
 ## Circuit Diagram
-![Circuit Diagram](assets/circuit.jpg)
+![Circuit Diagram](assets/circuit.png)
 
 ## Setup Instructions
 
