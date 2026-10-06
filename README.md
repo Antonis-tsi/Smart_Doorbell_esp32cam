@@ -60,3 +60,7 @@ const char* ssid = "WiFi Name";
 const char* password = "WiFi Password";
 String chatId = "YOUR_USER_ID"; 
 String BOTtoken = "YOUR_BOT_TOKEN";
+```
+
+## License
+MIT License
